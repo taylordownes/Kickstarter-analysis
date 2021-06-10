@@ -8,10 +8,17 @@
 
 ### To conduct the analysis for theater campaign outcomes based on launch date I created a column in the kickstarter data to extract the year using the YEAR() function in excel. Once the year data was generated, I inserted a pivot table with filters for “parent category” and “years” with the months of the year as columns associated to the count of outcomes for each labeled outcome option. Once the pivot table was generated, I create a line chart to visualize the trends for theater outcomes based on launch date shown below.
 
-# ![alt tag]<https://github.com/taylordownes/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png>![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/84201614/121591562-449e4a80-c9ff-11eb-9454-5b782bf9f640.png)
+
+# ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/84201614/121591637-5a137480-c9ff-11eb-8aee-2816c40f3cc3.png)
+
 
 
 ### To conduct the analysis for theater campaign outcomes based on fundraising goal, I created a new sheet and added appropriate headers for goals, numbers, and percentages of successful, failed, and canceled campaigns. Using the COUNTIFS() function in excel, I calculated the corresponding numbers and percentages of the outcomes based on the goals from the kickstarter data provided. Once the data was complete, I inserted a line chart to visualize the outcomes based on goals as shown below.
+
+# ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/84201614/121591693-6a2b5400-c9ff-11eb-8a13-f3b6c7aca260.png)
+
+
+
 
 ### As visualized by the pivot tables and charts, the data has various trends that can make it difficult to draw specific conclusions. For example, the campaign outcomes based on goals chart has a steady decline until it reaches around $35,000 to $50,000 in fundraising goals. This prevents us from confirming a stronger result in successful campaigns under $20,000. A larger sample size could help make the trend more apparent and help to visualize a stronger decline.
 
