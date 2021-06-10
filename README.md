@@ -6,7 +6,7 @@
 
 ## Analysis and Challenges
 
-### To conduct the analysis for theater campaign outcomes based on launch date I created a column in the kickstarter data to extract the year using the YEAR() function in excel. Once the year data was generated, I inserted a pivot table with filters for “parent category” and “years” with the months of the year as columns associated to the count of outcomes for each labeled outcome option. Once the pivot table was generated, I create a line chart to visualize the trends for theater outcomes based on launch date shown below.
+### To conduct the analysis for theater campaign outcomes based on launch date I created a column in the kickstarter data to extract the year using the YEAR() function in excel. Once the year data was generated, I inserted a pivot table with filters for “parent category” and “years” with the months of the year as columns associated to the count of outcomes for each labeled outcome option. Once the pivot table was generated, I created a line chart to visualize the trends for theater outcomes based on launch dates shown below.
 
 
 # ![Theater_Outcomes_vs_Launch](https://github.com/taylordownes/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
@@ -20,7 +20,7 @@
 
 
 
-### As visualized by the pivot tables and charts, the data has various trends that can make it difficult to draw specific conclusions. For example, the campaign outcomes based on goals chart has a steady decline until it reaches around $35,000 to $50,000 in fundraising goals. This prevents us from confirming a stronger result in successful campaigns under $20,000. A larger sample size could help make the trend more apparent and help to visualize a stronger decline.
+### As visualized by the pivot tables and charts, the data has multiple trends that can make it difficult to draw specific conclusions. For example, the campaign outcomes based on goals chart has a steady decline until it reaches around $35,000 to $50,000 in fundraising goals. This prevents us from confirming a stronger trend in successful campaigns under $20,000. A larger sample size could help make the trend more apparent and help to visualize a stronger decline.
 
 ## Results
 
