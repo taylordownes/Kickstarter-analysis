@@ -8,7 +8,7 @@
 
 ### To conduct the analysis for theater campaign outcomes based on launch date I created a column in the kickstarter data to extract the year using the YEAR() function in excel. Once the year data was generated, I inserted a pivot table with filters for “parent category” and “years” with the months of the year as columns associated to the count of outcomes for each labeled outcome option. Once the pivot table was generated, I create a line chart to visualize the trends for theater outcomes based on launch date shown below.
 
-# <https://github.com/taylordownes/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png>
+# ![alt tag]<https://github.com/taylordownes/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png>
 
 ### To conduct the analysis for theater campaign outcomes based on fundraising goal, I created a new sheet and added appropriate headers for goals, numbers, and percentages of successful, failed, and canceled campaigns. Using the COUNTIFS() function in excel, I calculated the corresponding numbers and percentages of the outcomes based on the goals from the kickstarter data provided. Once the data was complete, I inserted a line chart to visualize the outcomes based on goals as shown below.
 
