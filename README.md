@@ -31,3 +31,4 @@
 - Some limitations on this data analysis could include the sample size and location. A larger sample size could help trends become more apparent or uncover new trends that do not exist in this particular dataset. The location could also be narrowed down to target a more accurate and specific sample size. It is also important to consider room for error as the data collected could have been under or over estimated.
 
 - In terms of additional analysis, we could look at analyzing campaign outcomes based on country to see if that would impact Louise’s desired results on theater fundraising campaigns. We could also add more variables such as “fundraising method” to compare the successful campaigns to their method of fundraising.
+
